@@ -1,0 +1,1 @@
+var myObj={Administrator:"TranBaoKha",Powered:"Blogger"};console.log(myObj);console.log("%cF12 làm chó nhé :))","font: 600 50px Roboto;color:red",);
